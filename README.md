@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is **AnnisaNurulIslami** ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **AnnisaNurulIslami** ✨  
 
 Here are some ideas to get you started:
 
