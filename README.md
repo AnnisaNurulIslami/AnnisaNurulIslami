@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is **AnnisaNurulIslami** ✨  
+My name is **Annisa Nurul Islami** ✨  
 
 Here are some ideas to get you started:
 
