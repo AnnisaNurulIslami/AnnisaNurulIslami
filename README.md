@@ -2,7 +2,7 @@
 
 My name is **Annisa Nurul Islami** ✨  
 
-Here are some ideas to get you started:
+Here's more about me:
 
 - 🔭 I’m currently working on Hasanuddin University as a Student
 - 🌱 I’m currently learning Mobile Development
