@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is **Annisa Nurul Islami** ✨  
+My name is **Annisa Nurul Islami** ✨ but my coolest name is **Kyunys☽**   
 
 Here's more about me:
 
