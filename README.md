@@ -5,13 +5,13 @@ My name is **Annisa Nurul Islami** ✨
 Here's more about me:
 
 - 🎓 I graduated with a Bachelor's degree in Information Systems  
-- 🔐 I'm passionate about Cybersecurity and Mobile App Development  
-- 📱 Currently exploring Android Development using Kotlin & Jetpack  
+- 🔐 I'm passionate about Software Quality Assurance, Cybersecurity, and Mobile Development  
+- 📱 Currently exploring Automation and Performance Testing
 - 🖥️ I also enjoy teaching and creating visual content through graphic design  
 - 🤝 I’m open to collaboration on tech projects, especially in mobile & security fields  
 - 📚 I'm a lifelong learner and tech enthusiast  
 - 📫 Reach me on LinkedIn: [linkedin.com/in/nisakyuu009/](https://www.linkedin.com/in/nisakyuu009/)  
-- ⚡ Fun fact: I love visual storytelling and tech memes!
+- ⚡ Fun fact: I love a healthy environment where we could growing together as a better human
 
 <p align="left">
 <a href="https://github.com/AnnisaNurulIslami">
