@@ -1,13 +1,11 @@
 # Hi there 👋
 
-My name is **Annisa Nurul Islami** ✨ but my coolest name is **Kyunys☽**   
+My name is **Annisa Nurul Islami** ✨    
 
 Here's more about me:
 
 - 🎓 I graduated with a Bachelor's degree in Information Systems  
 - 🔐 I'm passionate about Software Quality Assurance, Cybersecurity, and Mobile Development  
-- 📱 Currently exploring Automation and Performance Testing
-- 🖥️ I also enjoy teaching and creating visual content through graphic design  
 - 🤝 I’m open to collaboration on tech projects, especially in mobile & security fields  
 - 📚 I'm a lifelong learner and tech enthusiast  
 - 📫 Reach me on LinkedIn: [linkedin.com/in/nisakyuu009/](https://www.linkedin.com/in/nisakyuu009/)  
